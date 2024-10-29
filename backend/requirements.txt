@@ -1,0 +1,8 @@
+fastapi
+pydantic
+aiofiles
+langchain
+openai
+pymupdf
+chromadb
+sqlite3
