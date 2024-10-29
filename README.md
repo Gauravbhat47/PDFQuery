@@ -43,13 +43,3 @@ Mainly in backend
 main.py: FastAPI server handling file uploads, downloads, and question processing.
 database.py: Manages the SQLite database, file storage, and retrieval.
 
-
-
-
-
-
-
-
-
-
-ChatGPT can make mistakes. Check important info.
